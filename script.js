@@ -5,6 +5,10 @@ const generateQuote = function() {
         author: "- Thomas Szasz"
     },
     {
+        quote: "Light-hearted people take serious things lightly and light things seriously.",
+        author: "—Maria de Beausacq."
+    },
+    {
         quote: "Real action is in silent moments.",
         author: "- Ralph Waldo Emerson"
     },
