@@ -42,7 +42,7 @@ const generateQuote = function() {
     }
 ];
 let arrayIndex = Math.floor(Math.random() * quotes.length);
-conole.log(arrayIndex);
+console.log(arrayIndex);
 document.getElementById("quotes").textContent = quotes[arrayIndex].quote;
 document.getElementById("author").textContent = quotes[arrayIndex].author;
 
