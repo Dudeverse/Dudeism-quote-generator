@@ -1,5 +1,7 @@
 const generateQuote = function() {
     const quotes = [
+    {   quote: "Time you enjoy wasting is not wasted time",
+        author: "- Bertrand Russel"},
     {
         quote: " Boredom is the feeling that everything is a waste of time; serenity, that nothing is.",
         author: "- Thomas Szasz"
